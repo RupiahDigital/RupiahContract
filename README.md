@@ -17,3 +17,10 @@ Network: Blockchain Ethereum </br>
 Contract Address : 0x22c10728343E9d49Ef25080F74a223878A3d4052 </br> </br>
 
 Founder address : 0x7D98fa238C3bBF0f2BCD1bcE19eFA028474B4E07
+</br></br>
+<Strong> How To Add Custom Token </strong> </br> 
+
+CONTRACT ADDRESS : 0x22c10728343E9d49Ef25080F74a223878A3d4052 </br>
+TOKEN NAME : Digital Rupiah</br>
+TOKEN SYMBOL : DRP</br>
+DECIMALS : 8</br>
