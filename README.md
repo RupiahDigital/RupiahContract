@@ -9,7 +9,7 @@ Max Supply: 100.000.000 Tokens </br> </br>
 Allocation </br>
 Team & Developer 10.000.000, 8.000.000 Tokens will locked in 1 year</br>
 Bounty 10.000.000 Tokens </br>
-Airdrop 80.000.000 Tokens for 3 years with monthly distribution system </br>
+Airdrop 80.000.000 Tokens for 10 years with monthly distribution system </br>
 
 </Br> </br>
 Network: Blockchain Ethereum </br>
